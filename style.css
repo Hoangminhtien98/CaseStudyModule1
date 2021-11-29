@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+canvas {
+    box-shadow: gray 20px 10px 50px;
+}
+h1 {
+    font-family: "Snap ITC", serif;
+    color: gray;
+    text-shadow: 7px 5px black;
+}
